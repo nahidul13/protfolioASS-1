@@ -1,0 +1,88 @@
+* {
+    font-family: cursive;
+    
+
+}
+
+#p1 {
+    background-color: #7C9D96;
+    height: 52cqmax;
+}
+
+#pic {
+    background-color: #F4F2DE;
+    height: 500px;
+    width: 740px;
+    position: absolute;
+    top: 150px;
+    left: 80px;
+    z-index: 2;
+
+}
+
+#pic2 {
+   background-image: url("../image/nahidul2.jpg");
+   background-size: cover;
+    position: absolute;
+    left:250px;
+    top: 80px;
+    z-index: 1;
+    height: 380px;
+   width: 330px;
+   border:5px solid #0c0c0c;
+}
+#p3{
+    background-color:#E9B384 ;
+    position: absolute;
+    height: 160px;
+    width: 400px;
+    left:0px;
+    bottom: 0px;
+}
+#p4{
+    background-color: #61677A;
+    height: 370px;
+    width:800px;
+    position: absolute;
+    right:2px;
+top:350px;
+padding-left: 200px;
+}
+/* ABOUT DIV */
+#ab{
+    background-color: #7C9D96;
+    height: 52cqmax;
+}
+#ab1{
+background-color: #D8D9DA;
+position: relative;
+height: 100px;
+width: 300px;
+top:70px;
+padding: 30px;
+border-end-start-radius: 50px;
+
+}
+.exampleText {
+    writing-mode: vertical-rl;
+    padding: 10px;
+    background-color: #61677A;
+    border-end-start-radius: 10px;
+    font-size: 30px;
+    color:#D8D9DA;
+  }
+  #ab2
+  {
+    position: relative;
+    background-color:#D8D9DA ;
+    height: 600px;
+    width: 900px;
+    left: 400px;
+    padding: 50px;
+    padding-top: 70px;
+  }
+  #foot
+  {
+    height: 300px;
+    background-color: #F4F2DE;
+  }
